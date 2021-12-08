@@ -1,0 +1,1 @@
+BVH Animations CC03 by Linden Research http://wiki.secondlife.com/wiki/Internal_Animations

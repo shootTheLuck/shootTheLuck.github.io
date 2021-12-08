@@ -1,0 +1,1 @@
+humanoid model CC0 by Shingox https://opengameart.org/content/low-poly-male-base-mesh
