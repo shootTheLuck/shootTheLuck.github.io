@@ -7,4 +7,4 @@ ModalWindow [repo](https://github.com/shootTheLuck/Modal-Window) / [demo](https:
 SpinBox [repo](https://github.com/shootTheLuck/Spin-Box) / [demo](https://shoottheluck.github.io/Spin-Box)<br>
 
 #### THREE.js:
-ViewControls [repo](https://github.com/shootTheLuck/View-Controls) / [demo](https://shoottheluck.github.io/View-Controls)<br>
+ViewControls [repo](https://github.com/shootTheLuck/ViewControls) / [demo](https://shoottheluck.github.io/ViewControls)<br>
